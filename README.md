@@ -1,6 +1,6 @@
 # TicTacToe
 Description:
-This is a game TicTacTor with a field 3x3. 
+This is a TicTacToe game with a field 3x3. 
 To play u need to type a position of the next move. 
 X goes first.
 Possible scenarios:
